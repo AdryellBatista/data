@@ -2,6 +2,7 @@
   "questions":[
     {
       "number": 1,
+      "name": "perg1",
       "question": "Qual o seu comportamento em relação aos seus investimentos?",
       "options":[
         {"value": 1, "text":"Preservar meu dinheiro sem correr riscos"},
@@ -11,6 +12,7 @@
     },
     {
       "number": 2,
+      "name": "perg2",
       "question": "Por quanto tempo você deseja manter seus investimentos?",
       "options":[
         {"value": 1, "text":"Até 1 ano"},
@@ -20,6 +22,7 @@
     },
     {
       "number": 3,
+      "name": "perg3",
       "question": "Quanto % desse investimentos você pode precisar em um ano?",
       "options":[
         {"value": 1, "text":"Acima de 75%"},
